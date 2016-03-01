@@ -1,0 +1,28 @@
+name: ClassicHouse
+favicon: null
+layout_spectrum: 0.2875733484979719
+typography_spectrum: 0.9160493551753461
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9913438621442765
+  lightness: 0.8834685967303813
+  saturation: 0.619824395282194
+  rhythmicContrast: 0.07121986709535122
+purpose: []
