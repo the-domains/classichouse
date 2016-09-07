@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[DJ Noël - Classic House Archive]]></title>
         <description><![CDATA[DJ Noël - Classic House Archive]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/classichouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 03 Sep 2016 14:10:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 03 Sep 2016 14:11:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/classichouse/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[trying to work this out]]></title>
             <description><![CDATA[<article><h1>trying to work this out</h1><p>First Post, innit.</p></article>]]></description>
-            <link>undefinedtrying-to-work-this-out/index.html</link>
+            <link>https://thegrid.ai/classichouse/trying-to-work-this-out/index.html</link>
+            <guid isPermaLink="false">cd851d62-3811-479a-80b4-30356db470ea</guid>
+            <pubDate>Sat, 03 Sep 2016 14:11:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[trying to work this out]]></title>
+            <description><![CDATA[<article><h1>trying to work this out</h1><p>First Post, innit.</p></article>]]></description>
+            <link>https://thegrid.ai/classichouse/trying-to-work-this-out/index.html</link>
             <guid isPermaLink="false">6ecf72f1-1b28-4a4f-939f-5a2a445dd77d</guid>
             <pubDate>Sat, 03 Sep 2016 14:10:50 GMT</pubDate>
         </item>
