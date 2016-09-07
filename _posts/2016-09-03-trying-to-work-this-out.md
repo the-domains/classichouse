@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-09-03T14:10:50.052Z'
+datePublished: '2016-09-03T14:11:04.347Z'
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-03T14:10:15.372Z'
+dateModified: '2016-09-03T14:11:04.188Z'
 title: trying to work this out
 publisher: {}
 description: 'First Post, innit.'
 inLanguage: null
 inNav: false
-starred: false
 sourcePath: _posts/2016-09-03-trying-to-work-this-out.md
+starred: false
 url: trying-to-work-this-out/index.html
 _type: Article
 
